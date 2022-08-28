@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=neko941.neko941">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Quangdepzaivt.Quangdepzaivt">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -13,25 +13,25 @@
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <br>
 <div align=center>
-  <a href="#" title="neko941">
+  <a href="#" title="Quangdepzaivt">
     <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quangdepzaivt&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
-  <a href="#" title="neko941">
+  <a href="#" title="Quangdepzaivt">
     <img height="190px" src="https://github-readme-stats.vercel.app/api?username=Quangdepzaivt&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
     
   <br>
-  <a href="#" title="neko941">
+  <a href="#" title="Quangdepzaivt">
     <img height="192px" src='http://github-readme-streak-stats.herokuapp.com?user=Quangdepzaivt&theme=tokyonight'>
   </a>
     
   <br>
-  <a href="#" title="neko941">
+  <a href="#" title="Quangdepzaivt">
     <img src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Quangdepzaivt&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true">
   </a>
     
   <br>
-  <a href="#" title="neko941">
+  <a href="#" title="Quangdepzaivt">
     <img height="192px" align="center" src='https://github-profile-trophy.vercel.app/?username=Quangdepzaivt&theme=algolia'>
   </a>
 </div>
