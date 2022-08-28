@@ -14,25 +14,25 @@
 <br>
 <div align=center>
   <a href="#" title="neko941">
-    <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neko941&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quangdepzaivt&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
   <a href="#" title="neko941">
-    <img height="190px" src="https://github-readme-stats.vercel.app/api?username=neko941&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </a>
-    
-  <br>
-  <a href="#" title="neko941">
-    <img height="192px" src='http://github-readme-streak-stats.herokuapp.com?user=neko941&theme=tokyonight'>
+    <img height="190px" src="https://github-readme-stats.vercel.app/api?username=Quangdepzaivt&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
     
   <br>
   <a href="#" title="neko941">
-    <img src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=neko941&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true">
+    <img height="192px" src='http://github-readme-streak-stats.herokuapp.com?user=Quangdepzaivt&theme=tokyonight'>
   </a>
     
   <br>
   <a href="#" title="neko941">
-    <img height="192px" align="center" src='https://github-profile-trophy.vercel.app/?username=neko941&theme=algolia'>
+    <img src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Quangdepzaivt&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true">
+  </a>
+    
+  <br>
+  <a href="#" title="neko941">
+    <img height="192px" align="center" src='https://github-profile-trophy.vercel.app/?username=Quangdepzaivt&theme=algolia'>
   </a>
 </div>
 
@@ -86,8 +86,5 @@
 
 <h2 align="center">Repositories</h2>
 <br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/neko941/Distributed-System-Exercise" title="Distributed System Exercise"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=neko941&repo=Distributed-System-Exercise&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/neko941/UAS_JavaOOP_WS2122_G9" title="Calender"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=neko941&repo=UAS_JavaOOP_WS2122_G9&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
+
 <br><br><br><br><br><br>
