@@ -84,7 +84,5 @@
   <img src='https://github-readme-quotes.herokuapp.com/quote?theme=merko&animation=grow_out_in&layout=default&font=Gabrielle'>
 </div>
 
-<h2 align="center">Repositories</h2>
-<br>
 
-<br><br><br><br><br><br>
+
